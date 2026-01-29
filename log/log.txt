@@ -1,0 +1,6 @@
+{"nodeid": "connect_device", "depth": 1, "msg": "设备连接成功", "img": null, "time": 1769604265.5256622, "tag": "log", "status": "success"}
+{"nodeid": "start_app", "depth": 1, "msg": "启动游戏启动器: D:\\EudemonsLauncher\\eudemons_launcher.exe", "img": null, "time": 1769604265.5256622, "tag": "log", "status": "success"}
+{"nodeid": "wait_for_load", "depth": 1, "msg": "等待启动器加载完成", "img": null, "time": 1769604265.5256622, "tag": "log", "status": "success"}
+{"nodeid": "snapshot_before", "depth": 1, "msg": "点击登录按钮前截图", "img": null, "time": 1769604265.5256622, "tag": "snapshot", "status": "success"}
+{"nodeid": "touch_login", "depth": 1, "msg": "点击登录按钮", "img": null, "time": 1769604265.5256622, "tag": "touch", "status": "success"}
+{"nodeid": "snapshot_after", "depth": 1, "msg": "点击登录按钮后截图", "img": null, "time": 1769604265.5256622, "tag": "snapshot", "status": "success"}
